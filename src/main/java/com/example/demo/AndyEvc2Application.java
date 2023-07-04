@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ElgueraRestEvcApplication {
+public class AndyEvc2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ElgueraRestEvcApplication.class, args);
+		SpringApplication.run(AndyEvc2Application.class, args);
 	}
 
 }
